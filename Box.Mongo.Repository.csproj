@@ -7,8 +7,8 @@
     <Version>0.1.0</Version>
     <Authors>Resul Demirok</Authors>
     <Company>Resul Co</Company>
-    <Description>Lightweight IQueryable provider + Generic repository for Mongo — EF-like API.</Description>
-    <PackageTags>Mongo;LINQ;IQueryable</PackageTags>
+    <Description>Lightweight IQueryable provider + Generic repository for MongoDB — EF-like API.</Description>
+    <PackageTags>MongoDB;LINQ;IQueryable</PackageTags>
     <RepositoryUrl>https://github.com/resuldemirok/Box.Mongo.Repository</RepositoryUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
