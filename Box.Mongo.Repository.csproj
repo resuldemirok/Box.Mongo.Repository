@@ -4,7 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <PackageId>Box.Mongo.Repository</PackageId>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Version>0.1.0</Version>
+    <Version>0.1.1</Version>
     <Authors>Resul Demirok</Authors>
     <Company>Resul Co</Company>
     <Description>Lightweight IQueryable provider + Generic repository for MongoDB — EF-like API.</Description>
